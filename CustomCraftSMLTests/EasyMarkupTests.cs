@@ -3,7 +3,6 @@
     using System.Collections.Generic;
     using Common.EasyMarkup;
     using NUnit.Framework;
-    using AssertionException = UnityEngine.Assertions.AssertionException;
 
     [TestFixture]
     public class EasyMarkupTests
